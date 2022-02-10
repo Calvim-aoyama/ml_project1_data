@@ -1,0 +1,25 @@
+-- columns int data
+alter table dbo.ifood$  alter column Income int
+alter table dbo.ifood$  alter column  Kidhome int
+alter table dbo.ifood$  alter column  Teenhome int
+alter table dbo.ifood$  alter column  Recency int
+alter table dbo.ifood$  alter column MntWines int
+alter table dbo.ifood$  alter column  MntFruits int
+alter table dbo.ifood$  alter column  MntMeatProducts int
+alter table dbo.ifood$  alter column  MntFishProducts int
+alter table dbo.ifood$  alter column  MntSweetProducts int
+alter table dbo.ifood$  alter column  MntGoldProds int
+alter table dbo.ifood$  alter column  NumDealsPurchases int
+alter table dbo.ifood$  alter column  NumWebPurchases int
+alter table dbo.ifood$  alter column  NumCatalogPurchases int
+alter table dbo.ifood$  alter column  NumStorePurchases int
+alter table dbo.ifood$  alter column  NumWebVisitsMonth int
+alter table dbo.ifood$  alter column  AcceptedCmp3 int
+alter table dbo.ifood$  alter column  AcceptedCmp4 int
+alter table dbo.ifood$  alter column  AcceptedCmp5 int
+alter table dbo.ifood$  alter column  AcceptedCmp1 int
+alter table dbo.ifood$  alter column  AcceptedCmp2 int
+alter table dbo.ifood$  alter column  Complain int
+alter table dbo.ifood$  alter column  Z_CostContact int
+alter table dbo.ifood$  alter column  Z_Revenue int
+alter table dbo.ifood$  alter column  Response int;
